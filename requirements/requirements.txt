@@ -1,1 +1,6 @@
+python
+opencv-python
+mediapipe
+pycaw
+comtypes
 
